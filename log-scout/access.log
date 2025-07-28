@@ -1,0 +1,36 @@
+192.168.1.100 - - [15/Dec/2023:10:30:45 +0000] "GET /api/users HTTP/1.1" 200 1250 "https://sample.url.com/users" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.150
+10.0.0.50 - - [15/Dec/2023:10:31:12 +0000] "POST /api/login HTTP/1.1" 401 256 "https://sample.url.com/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" 0.045
+203.0.113.45 - - [15/Dec/2023:10:32:03 +0000] "GET /images/logo.png HTTP/1.1" 200 45200 "https://sample.url.com/" "Mozilla/5.0 (X11; Linux x86_64)" 0.012
+198.51.100.23 - - [15/Dec/2023:10:33:22 +0000] "GET /api/products HTTP/1.1" 200 3450 "https://sample.url.com/products" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)" 0.234
+192.168.1.100 - - [15/Dec/2023:10:34:15 +0000] "PUT /api/users/123 HTTP/1.1" 200 890 "https://sample.url.com/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 0.180
+203.0.113.45 - - [15/Dec/2023:10:35:30 +0000] "GET / HTTP/1.1" 200 2340 "https://sample.url.com/" "Mozilla/5.0 (X11; Linux x86_64)" 0.008
+198.51.100.23 - - [15/Dec/2023:10:36:45 +0000] "GET /css/style.css HTTP/1.1" 200 12500 "https://sample.url.com/products" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)" 0.015
+10.0.0.50 - - [15/Dec/2023:10:37:12 +0000] "POST /api/register HTTP/1.1" 400 156 "https://sample.url.com/register" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" 0.067
+203.0.113.45 - - [15/Dec/2023:10:38:20 +0000] "GET /js/app.js HTTP/1.1" 200 89200 "https://sample.url.com/" "Mozilla/5.0 (X11; Linux x86_64)" 0.023
+192.168.1.100 - - [15/Dec/2023:10:39:05 +0000] "DELETE /api/sessions HTTP/1.1" 204 0 "https://sample.url.com/logout" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 0.034
+198.51.100.89 - - [15/Dec/2023:10:40:18 +0000] "GET /admin/dashboard HTTP/1.1" 403 345 "https://sample.url.com/admin" "Mozilla/5.0 (Unknown)" 0.005
+203.0.113.45 - - [15/Dec/2023:10:41:33 +0000] "GET /favicon.ico HTTP/1.1" 200 1540 "https://sample.url.com/" "Mozilla/5.0 (X11; Linux x86_64)" 0.007
+198.51.100.23 - - [15/Dec/2023:10:42:45 +0000] "GET /api/products/456 HTTP/1.1" 200 2340 "https://sample.url.com/products/456" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)" 0.156
+10.0.0.50 - - [15/Dec/2023:10:43:12 +0000] "PATCH /api/users/123 HTTP/1.1" 200 789 "https://sample.url.com/profile" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" 0.145
+192.168.1.100 - - [15/Dec/2023:10:44:25 +0000] "GET /api/orders HTTP/1.1" 200 4560 "https://sample.url.com/orders" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 0.298
+203.0.113.45 - - [15/Dec/2023:10:45:40 +0000] "GET /contact HTTP/1.1" 200 3450 "https://sample.url.com/contact" "Mozilla/5.0 (X11; Linux x86_64)" 0.045
+198.51.100.23 - - [15/Dec/2023:10:46:55 +0000] "GET /about HTTP/1.1" 200 2340 "https://sample.url.com/about" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)" 0.034
+198.51.100.89 - - [15/Dec/2023:10:47:12 +0000] "GET /admin/users HTTP/1.1" 403 345 "https://sample.url.com/admin/users" "Mozilla/5.0 (Unknown)" 0.006
+10.0.0.50 - - [15/Dec/2023:10:48:25 +0000] "GET /api/search?q=test HTTP/1.1" 200 1230 "https://sample.url.com/search" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" 0.123
+203.0.113.45 - - [15/Dec/2023:10:49:40 +0000] "GET /images/banner.jpg HTTP/1.1" 200 125000 "https://sample.url.com/" "Mozilla/5.0 (X11; Linux x86_64)" 0.089
+192.168.1.100 - - [15/Dec/2023:10:50:55 +0000] "POST /api/comments HTTP/1.1" 201 456 "https://sample.url.com/blog/post" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 0.078
+198.51.100.23 - - [15/Dec/2023:10:51:12 +0000] "GET /blog HTTP/1.1" 200 5670 "https://sample.url.com/blog" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)" 0.167
+198.51.100.89 - - [15/Dec/2023:10:52:25 +0000] "GET /wp-admin HTTP/1.1" 404 234 "https://sample.url.com/wp-admin" "Mozilla/5.0 (Unknown)" 0.004
+10.0.0.50 - - [15/Dec/2023:10:53:40 +0000] "GET /api/docs HTTP/1.1" 200 8900 "https://sample.url.com/docs" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" 0.234
+203.0.113.45 - - [15/Dec/2023:10:54:55 +0000] "GET /robots.txt HTTP/1.1" 200 123 "https://sample.url.com/robots.txt" "Mozilla/5.0 (X11; Linux x86_64)" 0.006
+192.168.1.100 - - [15/Dec/2023:10:55:12 +0000] "GET /api/notifications HTTP/1.1" 200 2340 "https://sample.url.com/notifications" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 0.145
+198.51.100.23 - - [15/Dec/2023:10:56:25 +0000] "GET /shop HTTP/1.1" 200 3450 "https://sample.url.com/shop" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)" 0.089
+198.51.100.89 - - [15/Dec/2023:10:57:40 +0000] "GET /phpmyadmin HTTP/1.1" 404 234 "https://sample.url.com/phpmyadmin" "Mozilla/5.0 (Unknown)" 0.005
+10.0.0.50 - - [15/Dec/2023:10:58:55 +0000] "GET /api/stats HTTP/1.1" 200 1230 "https://sample.url.com/stats" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" 0.098
+203.0.113.45 - - [15/Dec/2023:10:59:12 +0000] "GET /sitemap.xml HTTP/1.1" 200 2340 "https://sample.url.com/sitemap.xml" "Mozilla/5.0 (X11; Linux x86_64)" 0.012
+192.168.1.100 - - [15/Dec/2023:11:00:25 +0000] "PUT /api/settings HTTP/1.1" 200 567 "https://sample.url.com/settings" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 0.123
+198.51.100.23 - - [15/Dec/2023:11:01:40 +0000] "GET /cart HTTP/1.1" 200 1230 "https://sample.url.com/cart" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)" 0.067
+198.51.100.89 - - [15/Dec/2023:11:02:55 +0000] "GET /admin/config HTTP/1.1" 403 345 "https://sample.url.com/admin/config" "Mozilla/5.0 (Unknown)" 0.004
+10.0.0.50 - - [15/Dec/2023:11:03:12 +0000] "POST /api/upload HTTP/1.1" 413 345 "https://sample.url.com/upload" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" 0.045
+203.0.113.45 - - [15/Dec/2023:11:04:25 +0000] "GET /privacy HTTP/1.1" 200 4560 "https://sample.url.com/privacy" "Mozilla/5.0 (X11; Linux x86_64)" 0.023
+192.168.1.100 - - [15/Dec/2023:11:05:40 +0000] "DELETE /api/items/789 HTTP/1.1" 200 234 "https://sample.url.com/items" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 0.089
