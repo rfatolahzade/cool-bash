@@ -1,7 +1,8 @@
 # Cool-Bash
 
 I'm going to add some cool bash scripts for daily use cases! 🚀 
-🎯 Purpose 
+
+🎯 Purpose
 
 This repository contains useful bash scripts that solve everyday problems and automate common tasks. Each script is designed to be: 
 
