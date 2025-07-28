@@ -18,7 +18,9 @@ Current Scripts
   - [scout-log.sh](../master/log-scout/scout-log.sh) - Professional log analyzer for security monitoring and IP analysis with detailed request breakdown
 
 
+
 🚀 Quick Start
+
 ```bash
 # Clone the repository
 git clone https://github.com/rfatolahzade/cool-bash.git
