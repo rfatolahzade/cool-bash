@@ -51,10 +51,17 @@ This is a personal learning project, but feel free to:
  - Fork and modify for your own use-
  - Suggest improvements
  - Share your own cool bash scripts
+
      
+📝 Note
 
-📝 Note 
+This repository is a collection of scripts I create while practicing bash scripting. The focus is on practical, real-world utilities that make daily computing tasks easier and more efficient.
 
-This repository is a collection of scripts I create while practicing bash scripting. The focus is on practical, real-world utilities that make daily computing tasks easier and more efficient. 
+**Development Approach**: These scripts are developed through a combination of:
+- **Personal requirements** - Based on real needs from my DevOps and security work
+- **AI-assisted development** - Using AI tools as a coding assistant for implementation guidance and best practices
+- **Hands-on learning** - Each script represents a practical problem I've encountered and solved
+
+The scripts are tested in real environments and refined based on actual usage feedback.
 
 Good luck!🍀
