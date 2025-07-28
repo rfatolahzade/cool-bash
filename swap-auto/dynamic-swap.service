@@ -1,0 +1,13 @@
+[Unit]
+Description=Dynamic Swap Manager
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/dynamic-swap.sh --daemon
+Restart=always
+RestartSec=10
+User=root
+
+[Install]
+WantedBy=multi-user.target

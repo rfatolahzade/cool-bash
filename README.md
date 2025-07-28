@@ -10,12 +10,13 @@ This repository contains useful bash scripts that solve everyday problems and au
    - Practical for daily use
    - Well-documented with examples
    - Portable across different Linux distributions
-     
+ 
 
 📚 What's Inside 
 Current Scripts 
-  - [package-offline.sh](../master/package-offline.sh) - Download packages and dependencies for offline installation
+  - [package-offline.sh](../master/package-offline/package-offline.sh) - Download packages and dependencies for offline installation
   - [scout-log.sh](../master/log-scout/scout-log.sh) - Professional log analyzer for security monitoring and IP analysis with detailed request breakdown
+  - [swap-auto](../master/swap-auto/dynamic-swap.sh) - Automatically create swap based on set threshold
 
 
 
@@ -27,7 +28,7 @@ git clone https://github.com/rfatolahzade/cool-bash.git
 cd cool-bash
 
 # Make scripts executable
-chmod +x *.sh
+find . -name "*.sh" -exec chmod +x {} \;
 
 # Run any script
 ./script-name.sh
@@ -40,11 +41,11 @@ chmod +x *.sh
 These scripts are designed for: 
 
  - System Administration - Automate routine system tasks
- - Development Workflow - Speed up your coding workflow  
+ - Development Workflow - Speed up your coding workflow 
  - File Management - Organize and manage files efficiently
  - Network Tools - Monitor and troubleshoot network issues
  - Offline Package Management - Install software without internet
-     
+ 
 
 🤝 Contributing 
 
@@ -54,7 +55,7 @@ This is a personal learning project, but feel free to:
  - Suggest improvements
  - Share your own cool bash scripts
 
-     
+ 
 📝 Note
 
 This repository is a collection of scripts I create while practicing bash scripting. The focus is on practical, real-world utilities that make daily computing tasks easier and more efficient.

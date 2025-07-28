@@ -1,0 +1,136 @@
+2025-07-28 17:11:38 [INFO] Running single memory check
+2025-07-28 17:11:38 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:11:42 [INFO] Running single memory check
+2025-07-28 17:11:42 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:12:57 [INFO] Dynamic Swap Manager started
+2025-07-28 17:12:57 [INFO] Memory threshold: 80%, Swap size: 4GB, Check interval: 60s
+2025-07-28 17:12:57 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:14:01 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:15:05 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:16:09 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:17:13 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:18:16 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:19:20 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:20:24 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:21:28 [INFO] Memory usage: 11% | Swap active: no
+2025-07-28 17:22:32 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:23:36 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:24:40 [INFO] Memory usage: 11% | Swap active: no
+2025-07-28 17:25:44 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:25:46 [INFO] Dynamic Swap Manager stopping
+2025-07-28 17:25:46 [INFO] Dynamic Swap Manager started
+2025-07-28 17:25:46 [INFO] Memory threshold: 80%, Swap size: 4GB, Check interval: 60s
+2025-07-28 17:25:46 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:26:50 [INFO] Memory usage: 38% | Swap active: no
+2025-07-28 17:27:54 [INFO] Memory usage: 56% | Swap active: no
+2025-07-28 17:28:58 [INFO] Memory usage: 63% | Swap active: no
+2025-07-28 17:29:36 [INFO] Dynamic Swap Manager stopping
+2025-07-28 17:29:36 [INFO] Dynamic Swap Manager started
+2025-07-28 17:29:36 [INFO] Memory threshold: 30%, Swap size: 4GB, Check interval: 1s
+2025-07-28 17:29:36 [INFO] Memory usage: 64% | Swap active: no
+2025-07-28 17:29:36 [WARN] Memory usage (64%) exceeds threshold (30%)
+2025-07-28 17:29:36 [INFO] Creating 4GB swap file...
+2025-07-28 17:29:36 [INFO] Swap file created successfully
+2025-07-28 17:29:36 [INFO] Swap file formatted successfully
+2025-07-28 17:29:36 [INFO] Swap file enabled successfully
+2025-07-28 17:29:36 [SUCCESS] Swap created due to high memory usage
+2025-07-28 17:29:38 [INFO] Memory usage: 78% | Swap active: yes
+2025-07-28 17:29:39 [INFO] Memory usage: 73% | Swap active: yes
+2025-07-28 17:29:40 [INFO] Memory usage: 48% | Swap active: yes
+2025-07-28 17:29:41 [INFO] Memory usage: 73% | Swap active: yes
+2025-07-28 17:29:42 [INFO] Memory usage: 41% | Swap active: yes
+2025-07-28 17:29:43 [INFO] Memory usage: 67% | Swap active: yes
+2025-07-28 17:29:44 [INFO] Memory usage: 57% | Swap active: yes
+2025-07-28 17:29:45 [INFO] Memory usage: 51% | Swap active: yes
+2025-07-28 17:29:46 [INFO] Memory usage: 66% | Swap active: yes
+2025-07-28 17:29:47 [INFO] Memory usage: 54% | Swap active: yes
+2025-07-28 17:29:48 [INFO] Memory usage: 73% | Swap active: yes
+2025-07-28 17:29:50 [INFO] Memory usage: 74% | Swap active: yes
+2025-07-28 17:29:51 [INFO] Memory usage: 41% | Swap active: yes
+2025-07-28 17:29:52 [INFO] Memory usage: 39% | Swap active: yes
+2025-07-28 17:29:53 [INFO] Memory usage: 45% | Swap active: yes
+2025-07-28 17:29:54 [INFO] Memory usage: 42% | Swap active: yes
+2025-07-28 17:29:55 [INFO] Memory usage: 63% | Swap active: yes
+2025-07-28 17:29:56 [INFO] Memory usage: 34% | Swap active: yes
+2025-07-28 17:29:57 [INFO] Memory usage: 43% | Swap active: yes
+2025-07-28 17:29:58 [INFO] Memory usage: 66% | Swap active: yes
+2025-07-28 17:29:59 [INFO] Memory usage: 71% | Swap active: yes
+2025-07-28 17:30:00 [INFO] Memory usage: 50% | Swap active: yes
+2025-07-28 17:30:01 [INFO] Memory usage: 72% | Swap active: yes
+2025-07-28 17:30:02 [INFO] Memory usage: 51% | Swap active: yes
+2025-07-28 17:30:03 [INFO] Memory usage: 58% | Swap active: yes
+2025-07-28 17:30:04 [INFO] Memory usage: 35% | Swap active: yes
+2025-07-28 17:30:05 [INFO] Memory usage: 76% | Swap active: yes
+2025-07-28 17:30:06 [INFO] Memory usage: 67% | Swap active: yes
+2025-07-28 17:30:07 [INFO] Memory usage: 76% | Swap active: yes
+2025-07-28 17:30:09 [INFO] Memory usage: 70% | Swap active: yes
+2025-07-28 17:30:11 [INFO] Memory usage: 54% | Swap active: yes
+2025-07-28 17:30:12 [INFO] Memory usage: 47% | Swap active: yes
+2025-07-28 17:30:13 [INFO] Memory usage: 48% | Swap active: yes
+2025-07-28 17:30:14 [INFO] Memory usage: 69% | Swap active: yes
+2025-07-28 17:30:15 [INFO] Memory usage: 75% | Swap active: yes
+2025-07-28 17:30:16 [INFO] Memory usage: 56% | Swap active: yes
+2025-07-28 17:30:17 [INFO] Memory usage: 62% | Swap active: yes
+2025-07-28 17:30:18 [INFO] Memory usage: 66% | Swap active: yes
+2025-07-28 17:30:19 [INFO] Memory usage: 55% | Swap active: yes
+2025-07-28 17:30:20 [INFO] Memory usage: 66% | Swap active: yes
+2025-07-28 17:30:21 [INFO] Memory usage: 75% | Swap active: yes
+2025-07-28 17:30:22 [INFO] Memory usage: 39% | Swap active: yes
+2025-07-28 17:30:23 [INFO] Memory usage: 60% | Swap active: yes
+2025-07-28 17:30:24 [INFO] Memory usage: 69% | Swap active: yes
+2025-07-28 17:30:25 [INFO] Memory usage: 47% | Swap active: yes
+2025-07-28 17:30:26 [INFO] Memory usage: 49% | Swap active: yes
+2025-07-28 17:30:27 [INFO] Memory usage: 75% | Swap active: yes
+2025-07-28 17:30:28 [INFO] Memory usage: 52% | Swap active: yes
+2025-07-28 17:30:29 [INFO] Memory usage: 35% | Swap active: yes
+2025-07-28 17:30:30 [INFO] Memory usage: 54% | Swap active: yes
+2025-07-28 17:30:31 [INFO] Memory usage: 35% | Swap active: yes
+2025-07-28 17:30:32 [INFO] Memory usage: 60% | Swap active: yes
+2025-07-28 17:30:33 [INFO] Memory usage: 74% | Swap active: yes
+2025-07-28 17:30:34 [INFO] Memory usage: 75% | Swap active: yes
+2025-07-28 17:30:35 [INFO] Memory usage: 59% | Swap active: yes
+2025-07-28 17:30:36 [INFO] Memory usage: 61% | Swap active: yes
+2025-07-28 17:30:37 [INFO] Memory usage: 44% | Swap active: yes
+2025-07-28 17:30:38 [INFO] Memory usage: 81% | Swap active: yes
+2025-07-28 17:30:39 [INFO] Memory usage: 79% | Swap active: yes
+2025-07-28 17:30:40 [INFO] Dynamic Swap Manager stopping
+2025-07-28 17:30:40 [INFO] Dynamic Swap Manager started
+2025-07-28 17:30:40 [INFO] Memory threshold: 80%, Swap size: 4GB, Check interval: 37s
+2025-07-28 17:30:40 [INFO] Memory usage: 42% | Swap active: yes
+2025-07-28 17:30:40 [INFO] Memory usage (42%) below threshold (80%)
+2025-07-28 17:30:40 [INFO] Removing swap file...
+2025-07-28 17:30:41 [INFO] Swap file disabled successfully
+2025-07-28 17:30:41 [INFO] Swap file removed successfully
+2025-07-28 17:30:41 [SUCCESS] Swap removed due to normal memory usage
+2025-07-28 17:31:21 [INFO] Memory usage: 50% | Swap active: no
+2025-07-28 17:32:00 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:32:39 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:33:18 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:33:59 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:34:38 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:35:17 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:35:56 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:36:37 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:37:15 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:37:54 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:38:33 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:39:14 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:39:53 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:40:32 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:41:11 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:41:50 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:42:31 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:43:10 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:43:49 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:44:28 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:44:43 [INFO] Running single memory check
+2025-07-28 17:44:43 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:45:09 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:45:48 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:46:27 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:47:06 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:47:47 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:48:26 [INFO] Memory usage: 12% | Swap active: no
+2025-07-28 17:49:05 [INFO] Memory usage: 58% | Swap active: no
+2025-07-28 17:49:47 [INFO] Memory usage: 11% | Swap active: no
+2025-07-28 17:50:29 [INFO] Memory usage: 12% | Swap active: no
