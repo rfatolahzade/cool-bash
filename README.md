@@ -15,7 +15,7 @@ This repository contains useful bash scripts that solve everyday problems and au
 📚 What's Inside 
 Current Scripts 
   - [package-offline.sh](../master/package-offline.sh) - Download packages and dependencies for offline installation
-  - [Add soon]
+  - [scout-log.sh](../master/log-scout/scout-log.sh) - Professional log analyzer for security monitoring and IP analysis with detailed request breakdown
 
 
 🚀 Quick Start
